@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/sheikhuzairhussain/nxsite/d0e682af867c028ab0c03d97483e55eb2b844a7c/nxsite.png" width="30%">
 </p>
 <br>
-NXSite is a minimalistic site manager for NGINX on (most) Linux-based systems. Heavily inspired by Apache's  <code>a2ensite</code> and <code>a2dissite</code> utilities.
+NXSite is a minimalistic site manager for NGINX. Works on most Linux-based systems. Heavily inspired by Apache's  <code>a2ensite</code> and <code>a2dissite</code> utilities.
 
 ## Installation
 ```bash
