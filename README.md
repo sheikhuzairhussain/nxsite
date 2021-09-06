@@ -13,19 +13,19 @@ sudo chmod +x /usr/bin/nxsite
 ## Usage
 To list all/available sites:
 ```bash
-nsxite list [all|enabled]
+nxsite list [all|enabled]
 ```
 To enable/disable a site:
 ```bash
-nsxite [up|down] <site-config-name>
+nxsite [up|down] <site-config-name>
 ```
 
 ## Example
 To list enabled sites:
 ```bash
-nsxite list enabled
+nxsite list enabled
 ```
 To enable <code>example.com</code>
 ```bash
-nsxite up example.com
+nxsite up example.com
 ```
